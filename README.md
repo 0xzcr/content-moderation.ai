@@ -627,10 +627,16 @@ the final system successfully demonstrates the complete path from transformer tr
 
 ## pictures
 
-![pic1](pics/Screenshot 2026-06-24 at 3.35.44 PM.png)
-![pic2](pics/Screenshot 2026-06-24 at 10.49.44 PM.png)
-![pic3](pics/Screenshot 2026-06-24 at 10.49.19 PM.png)
-![pic4](pics/Screenshot 2026-06-24 at 8.46.14 PM.png)
-![pic5](pics/Screenshot 2026-06-24 at 7.32.21 PM.png)
-![pic6](pics/Screenshot 2026-06-24 at 10.06.34 PM.png)
-![pic7](pics/Screenshot 2026-06-24 at 3.36.35 PM.png)
+![pic1](pics/Screenshot%202026-06-24%20at%203.35.44%E2%80%AFPM.png)
+
+![pic2](pics/Screenshot%202026-06-24%20at%2010.49.44%E2%80%AFPM.png)
+
+![pic3](pics/Screenshot%202026-06-24%20at%2010.49.19%E2%80%AFPM.png)
+
+![pic4](pics/Screenshot%202026-06-24%20at%208.46.14%E2%80%AFPM.png)
+
+![pic5](pics/Screenshot%202026-06-24%20at%207.32.21%E2%80%AFPM.png)
+
+![pic6](pics/Screenshot%202026-06-24%20at%2010.06.34%E2%80%AFPM.png)
+
+![pic7](pics/Screenshot%202026-06-24%20at%203.36.35%E2%80%AFPM.png)

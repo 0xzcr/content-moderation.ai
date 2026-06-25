@@ -2,7 +2,7 @@
 
 fine-tuned distilbert for binary content moderation (safe / toxic), optimized for low-latency inference using onnx runtime graph optimizations and dynamic int8 quantization.
 
-this project demonstrates a complete ml lifecycle — from raw dataset ingestion to production-ready inference deployment — covering dataset engineering, model training, evaluation, experiment tracking, model optimization, benchmarking, and api serving.
+has raw dataset ingestion to production-ready inference deployment — covering dataset engineering, model training, evaluation, experiment tracking, model optimization, benchmarking, and api serving.
 
 ---
 
